@@ -3,4 +3,8 @@
 =======
 ﻿222222222222222222dasssssssssssssss
 >>>>>>> dev
-nnnnnnnnnnnnnnnnnnnnnnnnnnn
+<<<<<<< HEAD
+nnnnnnnbbbbbbbbbbbbbbbbbbbnn
+=======
+ndkjhahduwqhyjlkewjqkjnnlkjlkjndkjah
+>>>>>>> feature
