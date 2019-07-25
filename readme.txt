@@ -1,1 +1,1 @@
-﻿这是我的git命令学习的第二个测试。
+﻿Creating a new brach is quick.
