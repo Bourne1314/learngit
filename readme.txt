@@ -8,4 +8,8 @@ nnnnnnnbbbbbbbbbbbbbbbbbbbnn
 =======
 ndkjhahduwqhyjlkewjqkjnnlkjlkjndkjah
 >>>>>>> feature
+<<<<<<< Updated upstream
 mmmmmmmmmmmmmmmmmmmmmmmmmm
+=======
+mmmmmmmmmmmmmmmmmmmmm
+>>>>>>> Stashed changes
